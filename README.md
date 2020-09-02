@@ -11,3 +11,5 @@ Sarah is an avid reader and a seasonal poet :wink: with a pretty neat reading li
 - 😄 **Pronouns:** She/Her
 - :speech_balloon: **Loves to talk about:** Computer Science, Research, NLP, Hate Speech, Social Computing, Open Source, Open Access, Entrepreneurship, Religion
 - :handshake: **Contact her via**: [Twitter](https://twitter.com/_themessier), [Email](sarahmasud02@gmail.com)
+
+![Sarah_stats](https://github-readme-stats.vercel.app/api?username=sara-02)
